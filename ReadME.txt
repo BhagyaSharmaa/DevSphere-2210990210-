@@ -22,3 +22,6 @@ Directory Structure:
 * Source_Code: Contains project code
 * IPR_Document: Copyright and submission files
 * Report_Presentation: Report and PPT
+
+
+NOTE -> Kindly use npm install on any device which has node installed.
